@@ -1,3 +1,9 @@
-hola mundo
-
-}
+<DOCTYPE! html>
+<html>
+	<head>
+		<title>Título de la página </title>
+	</head>
+	<body bgcolor="blue">
+	Hola mundo
+	</body>
+</html>
